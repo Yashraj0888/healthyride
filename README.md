@@ -1,5 +1,5 @@
 # Users API
-## /users/register endpoint
+## `/users/register` endpoint
 ## Register Endpoint
 
 ### Description
